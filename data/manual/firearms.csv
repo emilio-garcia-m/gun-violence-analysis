@@ -1,0 +1,305 @@
+case_key,case,date,firearm_no,quantity,category,action,action_basis,manufacturer,model,caliber,rimfire_22,platform,carried,weak_source,sources,note
+2026-10-15_silver-rail-elementary-shooting,Silver Rail Elementary shooting,2026-10-15,1,1,shotgun,pump-action,stated by Mother Jones,Mossberg (Maverick Arms),Maverick 88,12-gauge,no,,yes,,,
+2026-08-01_in-n-out-burger-shooting,In-N-Out Burger shooting,2026-08-01,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-style (witness),,unknown,AR-style,yes,,S107,Only a witness describes an AR-style rifle; MJ says semiautomatic rifle.
+2026-05-18_san-diego-mosque-shooting,San Diego mosque shooting,2026-05-18,1,,unknown,unknown,unknown,,,,unknown,,yes,yes,S002;S003,"UNKNOWN pending better sources. Only an uncited Wikipedia infobox lists a Ruger Mini-14, a pistol and a pump shotgun; police/FBI have not itemized the guns. Re-check each update."
+2026-03-01_austin-bar-shooting,Austin bar shooting,2026-03-01,1,1,handgun,semiautomatic,stated by outside source,,,,unknown,,yes,,S103,
+2026-03-01_austin-bar-shooting,Austin bar shooting,2026-03-01,2,1,rifle,semiautomatic,inferred from make/model,,AR-15-style,,unknown,AR-style,yes,,S103;M01,
+2025-12-13_brown-university-and-mit-shooting,Brown University and MIT shooting,2025-12-13,1,2,handgun,semiautomatic,inferred from other text,,,9mm,no,,yes,,S104,"Reuters: 'Two 9mm pistols' recovered with his body, linked to both shootings."
+2025-09-28_michigan-mormon-church-shooting,Michigan Mormon church shooting,2025-09-28,1,1,rifle,semiautomatic,stated by Mother Jones,,'assault rifle' (police),,unknown,,yes,,S105,Police chief: 'an assault rifle'; no make/model released in sources found.
+2025-09-27_north-carolina-waterfront-bar-shooting,North Carolina waterfront bar shooting,2025-09-27,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-style (short-barreled),,unknown,AR-style,yes,,,"Suppressor, folding stock, scope."
+2025-08-11_austin-parking-lot-shooting,Austin parking lot shooting,2025-08-11,1,1,handgun,unknown,unknown,Taurus,,.40,no,,yes,,S004,"Police: Taurus .40-caliber handgun. Taurus .40 handguns are almost always pistols, but no source says semiautomatic."
+2025-08-01_montana-bar-shooting,Montana bar shooting,2025-08-01,1,1,rifle,semiautomatic,stated by Mother Jones,,"SKS-style (court records, as reported)",,unknown,Other rifle,yes,,S106,Court records reference an SKS-style rifle; the article does not confirm it is the matched rifle.
+2025-07-28_nyc-park-avenue-shooting,NYC Park Avenue shooting,2025-07-28,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2025-07-28_reno-casino-shooting,Reno casino shooting,2025-07-28,1,1,handgun,semiautomatic,stated by Mother Jones,,,9mm,no,,yes,,,
+2024-09-04_apalachee-high-school-shooting,Apalachee High School shooting,2024-09-04,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2024-06-21_arkansas-grocery-store-shooting,Arkansas grocery store shooting,2024-06-21,1,1,shotgun,unknown,unknown,,,12-gauge,no,,yes,,S005,Primary weapon per Arkansas State Police.
+2024-06-21_arkansas-grocery-store-shooting,Arkansas grocery store shooting,2024-06-21,2,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,S005,ASP: 'a pistol'; MJ: semiautomatic pistol.
+2023-12-06_unlv-shooting,UNLV shooting,2023-12-06,1,1,handgun,semiautomatic,stated by outside source,Taurus,PT92,9mm,no,,yes,yes,S108,Model from uncited infobox; 'Taurus 9mm handgun' per sheriff via KTNV.
+2023-10-25_maine-bowling-alley-and-bar-shootings,Maine bowling alley and bar shootings,2023-10-25,1,1,rifle,semiautomatic,stated by Mother Jones,Ruger,SFAR,,unknown,AR-style,yes,,,MJ spells it 'Rugar'.
+2023-08-26_jacksonville-dollar-general-store-shooting,Jacksonville Dollar General store shooting,2023-08-26,1,1,rifle,semiautomatic,stated by Mother Jones,Palmetto State Armory,PA-15,5.56mm/.223,no,AR-style,yes,yes,S128,Make/model from uncited infobox.
+2023-08-26_jacksonville-dollar-general-store-shooting,Jacksonville Dollar General store shooting,2023-08-26,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,20 Gen4,10mm,no,,yes,yes,S128,Model from uncited infobox.
+2023-08-23_orange-county-biker-bar-shooting,Orange County biker bar shooting,2023-08-23,1,3,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,S006,"Two handguns carried in, a third retrieved from his truck (ABC7). MJ: semiautomatic handguns."
+2023-08-23_orange-county-biker-bar-shooting,Orange County biker bar shooting,2023-08-23,2,1,shotgun,unknown,unknown,,,,unknown,,yes,,S006,Retrieved from his truck during the attack.
+2023-07-03_philidelphia-neighborhood-shooting,Philidelphia neighborhood shooting,2023-07-03,1,1,rifle,semiautomatic,stated by Mother Jones,Privately made (ghost gun),AR-15-style,,unknown,AR-style,yes,,S109,Police: no manufacturer markings.
+2023-07-03_philidelphia-neighborhood-shooting,Philidelphia neighborhood shooting,2023-07-03,2,1,handgun,semiautomatic,stated by Mother Jones,Privately made (ghost gun),Glock-style,9mm,no,,yes,,S109,
+2023-05-15_new-mexico-neighborhood-shooting,New Mexico neighborhood shooting,2023-05-15,1,1,rifle,semiautomatic,stated by Mother Jones,Black Rain Ordnance,BRO-A2,5.56mm/.223,no,AR-style,yes,yes,S110,Make/model from uncited infobox; police: 'AR-15 style rifle'.
+2023-05-15_new-mexico-neighborhood-shooting,New Mexico neighborhood shooting,2023-05-15,2,1,handgun,semiautomatic,stated by outside source,Stoeger,STR-9,9mm,no,,yes,,S110,Police: '.22 caliber and 9 mm pistols'.
+2023-05-15_new-mexico-neighborhood-shooting,New Mexico neighborhood shooting,2023-05-15,3,1,handgun,semiautomatic,stated by outside source,Browning,1911-22 A1,.22,yes,,yes,,S110,
+2023-05-06_texas-outlet-mall-shooting,Texas outlet mall shooting,2023-05-06,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15-style,,unknown,AR-style,yes,,,
+2023-04-10_louisville-bank-shooting,Louisville bank shooting,2023-04-10,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2023-03-27_nashville-christian-school-shooting,Nashville Christian school shooting,2023-03-27,1,1,rifle,semiautomatic,inferred from make/model,Lead Star Arms,Grunt (AR-15-style PISTOL),5.56mm/.223,no,AR-style pistol,yes,,S111;S112;M01,"DECISION: legally a pistol, but an AR-15 platform firing rifle ammunition; coded with rifles. 126 of 152 rounds (MNPD)."
+2023-03-27_nashville-christian-school-shooting,Nashville Christian school shooting,2023-03-27,2,1,rifle,semiautomatic,inferred from make/model,Kel-Tec,SUB-2000,9mm,no,Pistol-caliber carbine,yes,,S111;M24,
+2023-03-27_nashville-christian-school-shooting,Nashville Christian school shooting,2023-03-27,3,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,M&P9 Shield EZ,9mm,no,,yes,,S111,
+2023-02-13_michigan-state-university-shooting,Michigan State University shooting,2023-02-13,1,1,handgun,semiautomatic,stated by Mother Jones,Taurus,G3,9mm,no,,yes,,S113,Fired all 18 rounds.
+2023-02-13_michigan-state-university-shooting,Michigan State University shooting,2023-02-13,2,1,handgun,semiautomatic,stated by Mother Jones,Hi-Point,C-9,9mm,no,,yes,,S113,"Carried, not fired."
+2023-01-23_half-moon-bay-spree-shooting,Half Moon Bay spree shooting,2023-01-23,1,1,handgun,semiautomatic,stated by outside source,Glock,17,9mm,no,,yes,,S114,
+2023-01-21_la-dance-studio-mass-shooting,LA dance studio mass shooting,2023-01-21,1,1,handgun,semiautomatic,stated by outside source,Cobray,MAC-10-style pistol,9mm,no,MAC/Intratec-style pistol,yes,,S001,Primary weapon (LA County Sheriff). Trigger had been modified; ATF was testing whether it fired automatically.
+2023-01-21_la-dance-studio-mass-shooting,LA dance studio mass shooting,2023-01-21,2,1,handgun,semiautomatic,inferred from make/model,Norinco,7.62x25mm pistol (Tokarev type),7.62x25mm,no,,yes,,S001;M21,Used in his suicide when police closed in.
+2023-01-21_la-dance-studio-mass-shooting,LA dance studio mass shooting,2023-01-21,3,1,rifle,bolt-action,stated by outside source,Savage Arms,,.308,no,Other rifle,no (found elsewhere),,S001,"Found at his home, not carried."
+2022-11-22_virginia-walmart-shooting,Virginia Walmart shooting,2022-11-22,1,1,handgun,semiautomatic,stated by outside source,Taurus,,9mm,no,,yes,yes,S115,Make from uncited infobox.
+2022-11-19_lgbtq-club-shooting,LGBTQ club shooting,2022-11-19,1,1,rifle,semiautomatic,inferred from make/model,,AR-15-style,,unknown,AR-style,yes,,S116;M01,60-round drum magazine.
+2022-11-19_lgbtq-club-shooting,LGBTQ club shooting,2022-11-19,2,1,handgun,semiautomatic,stated by Mother Jones,Polymer80 (privately made),PF940V2 (Glock 17-style),,unknown,,yes,,S116,
+2022-11-13_university-of-virginia-shooting,University of Virginia shooting,2022-11-13,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,45,9mm,no,,yes,,S102,VSP: handgun recovered near the scene.
+2022-11-13_university-of-virginia-shooting,University of Virginia shooting,2022-11-13,2,1,rifle,semiautomatic,inferred from make/model,Ruger,AR-556,,unknown,AR-style,no (found elsewhere),,S102;M02,"Recovered from his residence, not carried."
+2022-10-13_raleigh-spree-shooting,Raleigh spree shooting,2022-10-13,1,1,shotgun,unknown,unknown,,,,unknown,,yes,,S007,Raleigh PD report.
+2022-10-13_raleigh-spree-shooting,Raleigh spree shooting,2022-10-13,2,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,S007,Raleigh PD report: 'a handgun'; MJ: semiautomatic.
+2022-07-17_greenwood-park-mall-shooting,Greenwood Park Mall shooting,2022-07-17,1,1,rifle,semiautomatic,stated by outside source,Sig Sauer,M400,5.56mm/.223,no,AR-style,yes,,S117,Used.
+2022-07-17_greenwood-park-mall-shooting,Greenwood Park Mall shooting,2022-07-17,2,1,rifle,semiautomatic,stated by outside source,Smith & Wesson,M&P15,5.56mm/.223,no,AR-style,yes,,S117,"Carried in, left in the restroom unused."
+2022-07-17_greenwood-park-mall-shooting,Greenwood Park Mall shooting,2022-07-17,3,1,handgun,semiautomatic,inferred from make/model,Glock,33,.357 SIG,no,,yes,,S117;M04,"Carried, unused."
+2022-07-04_highland-park-july-4-parade-shooting,Highland Park July 4 parade shooting,2022-07-04,1,1,rifle,semiautomatic,stated by outside source,Smith & Wesson,M&P15,,unknown,AR-style,yes,,S118,
+2022-07-04_highland-park-july-4-parade-shooting,Highland Park July 4 parade shooting,2022-07-04,2,1,rifle,semiautomatic,inferred from make/model,Kel-Tec,SUB-2000,,unknown,Pistol-caliber carbine,in vehicle (unclear if at scene),,S118;M24,In his car when he drove to Wisconsin after the attack; unclear whether it was in the car at the parade.
+2022-06-16_church-potluck-dinner-shooting,Church potluck dinner shooting,2022-06-16,1,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2022-06-09_concrete-company-shooting,Concrete company shooting,2022-06-09,1,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2022-06-01_tulsa-medical-center-shooting,Tulsa medical center shooting,2022-06-01,1,1,rifle,semiautomatic,inferred from make/model,,AR-15-style,,unknown,AR-style,yes,,S119;M01,
+2022-06-01_tulsa-medical-center-shooting,Tulsa medical center shooting,2022-06-01,2,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,,.40,no,,yes,,S119,
+2022-05-24_robb-elementary-school-massacre,Robb Elementary School massacre,2022-05-24,1,1,rifle,semiautomatic,inferred from make/model,Daniel Defense,DDM4 V7,5.56mm/.223,no,AR-style,yes,,S120;M01,Make/model from infobox (citations to Texas Tribune/USA Today).
+2022-05-24_robb-elementary-school-massacre,Robb Elementary School massacre,2022-05-24,2,1,rifle,semiautomatic,inferred from make/model,Smith & Wesson,M&P15 Volunteer XV,5.56mm/.223,no,AR-style,in vehicle at scene,,S120;M01,Left in his crashed truck at the school.
+2022-05-14_buffalo-supermarket-massacre,Buffalo supermarket massacre,2022-05-14,1,1,rifle,semiautomatic,stated by Mother Jones,Bushmaster,XM-15,,unknown,AR-style,yes,,,
+2022-02-28_sacramento-county-church-shooting,Sacramento County church shooting,2022-02-28,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15-style (privately made 'ghost gun'),,unknown,AR-style,yes,,,
+2021-11-30_oxford-high-school-shooting,Oxford High School shooting,2021-11-30,1,1,handgun,semiautomatic,stated by outside source,Sig Sauer,SP2022,9mm,no,,yes,,S121,
+2021-05-26_san-jose-vta-shooting,San Jose VTA shooting,2021-05-26,1,3,handgun,semiautomatic,stated by outside source,,,9mm,no,,yes,,S122,"Three semiautomatic handguns (MJ said plural, no number)."
+2021-04-15_fedex-warehouse-shooting,FedEx warehouse shooting,2021-04-15,1,1,rifle,semiautomatic,stated by outside source,Ruger,AR-556,,unknown,AR-style,yes,,S123,
+2021-04-15_fedex-warehouse-shooting,FedEx warehouse shooting,2021-04-15,2,1,rifle,semiautomatic,stated by outside source,HM Defense,HM15F,,unknown,AR-style,yes,,S123,
+2021-03-31_orange-office-complex-shooting,Orange office complex shooting,2021-03-31,1,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2021-03-22_boulder-supermarket-shooting,Boulder supermarket shooting,2021-03-22,1,1,rifle,semiautomatic,stated by outside source,Ruger,AR-556 (AR-15-style PISTOL),5.56mm/.223,no,AR-style pistol,yes,,S124;M02,"DECISION: legally a pistol, but an AR-15 platform firing rifle ammunition; coded with rifles. Police: the only weapon used."
+2021-03-22_boulder-supermarket-shooting,Boulder supermarket shooting,2021-03-22,2,1,handgun,semiautomatic,stated by outside source,Girsan,MC28SA,9mm,no,,yes,,S124,"Carried, not fired."
+2021-03-16_atlanta-massage-parlor-shootings,Atlanta massage parlor shootings,2021-03-16,1,1,handgun,semiautomatic,stated by Mother Jones,Sarsilmaz,,9mm,no,,yes,yes,S125,Make from uncited infobox.
+2020-03-16_springfield-convenience-store-shooting,Springfield convenience store shooting,2020-03-16,1,1,rifle,semiautomatic,stated by Mother Jones,,SKS,7.62mm,no,Other rifle,yes,,,
+2020-03-16_springfield-convenience-store-shooting,Springfield convenience store shooting,2020-03-16,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,,9mm,no,,yes,,,
+2020-02-26_molson-coors-shooting,Molson Coors shooting,2020-02-26,1,2,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,weapon_type says one semiautomatic handgun; summary says two handguns (one with a silencer). Coded as 2.
+2019-12-10_jersey-city-kosher-market-shooting,Jersey City kosher market shooting,2019-12-10,1,1,rifle,semiautomatic,inferred from make/model,,AR-15-style,,unknown,AR-style,yes,,S008;S009;M01,
+2019-12-10_jersey-city-kosher-market-shooting,Jersey City kosher market shooting,2019-12-10,2,1,shotgun,unknown,unknown,Mossberg,,12-gauge,no,,yes,,S008;S009,
+2019-12-10_jersey-city-kosher-market-shooting,Jersey City kosher market shooting,2019-12-10,3,1,handgun,semiautomatic,stated by outside source,Ruger,,9mm,no,,yes,,S008;S009,Found in the store.
+2019-12-10_jersey-city-kosher-market-shooting,Jersey City kosher market shooting,2019-12-10,4,1,handgun,semiautomatic,inferred from make/model,Glock,17,9mm,no,,yes,,S008;S009;M04,Found in the store.
+2019-12-10_jersey-city-kosher-market-shooting,Jersey City kosher market shooting,2019-12-10,5,1,handgun,semiautomatic,inferred from make/model,Ruger,Mark IV,.22,yes,,unclear,,S008;S010;M20,With a homemade silencer. Sources don't say where it was found (store or van).
+2019-12-06_pensacola-naval-base-shooting,Pensacola Naval base shooting,2019-12-06,1,1,handgun,semiautomatic,inferred from make/model,Glock,45,9mm,no,,yes,yes,S126;M04,Model from uncited infobox.
+2019-08-31_odessa-midland-shooting-spree,Odessa-Midland shooting spree,2019-08-31,1,1,rifle,semiautomatic,inferred from make/model,Anderson Manufacturing,AM-15,,unknown,AR-style,yes,yes,S127;M01,Police: 'AR-15 type rifle'. Make/model from uncited infobox.
+2019-08-04_dayton-entertainment-district-shooting,Dayton entertainment district shooting,2019-08-04,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15-style,,unknown,AR-style,yes,,,100-round drum magazine.
+2019-08-03_el-paso-walmart-mass-shooting,El Paso Walmart mass shooting,2019-08-03,1,1,rifle,semiautomatic,stated by Mother Jones,,AK-47-style,,unknown,AK-style,yes,,,
+2019-07-28_gilroy-garlic-festival-shooting,Gilroy garlic festival shooting,2019-07-28,1,1,rifle,semiautomatic,stated by Mother Jones,,AK-47-style,,unknown,AK-style,yes,,,
+2019-05-31_virginia-beach-municipal-building-shooting,Virginia Beach municipal building shooting,2019-05-31,1,2,handgun,semiautomatic,inferred from other text,,,.45,no,,yes,,S023,ATF: 'two .45 caliber pistols'. Coded semiautomatic because ATF calls them pistols (not revolvers) and MJ lists high-capacity magazines.
+2019-02-15_harry-pratt-co-warehouse-shooting,Harry Pratt Co. warehouse shooting,2019-02-15,1,1,handgun,unknown,unknown,Smith & Wesson,,.40,no,,yes,,S024,"AP: 'Smith and Wesson .40-caliber handgun'. Almost certainly a pistol, but no source says so."
+2019-01-24_pennsylvania-hotel-bar-shooting,Pennsylvania hotel bar shooting,2019-01-24,1,1,handgun,semiautomatic,stated by outside source,,,small caliber,no,,yes,,S025,"Police chief: 'small-caliber, semi-automatic handgun'."
+2019-01-23_suntrust-bank-shooting,SunTrust bank shooting,2019-01-23,1,1,handgun,unknown,unknown,,,9mm,no,,yes,,S026,Police: 9mm handgun bought days before; ballistics match pending at the time.
+2018-11-19_mercy-hospital-shooting,Mercy Hospital shooting,2018-11-19,1,1,handgun,semiautomatic,stated by Mother Jones,,,9mm,no,,yes,,,
+2018-11-07_thousand-oaks-nightclub-shooting,Thousand Oaks nightclub shooting,2018-11-07,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,21,.45,no,,yes,,,High-capacity magazine.
+2018-10-27_tree-of-life-synagogue-shooting,Tree of Life synagogue shooting,2018-10-27,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2018-10-27_tree-of-life-synagogue-shooting,Tree of Life synagogue shooting,2018-10-27,2,3,handgun,semiautomatic,stated by Mother Jones,Glock,,.357,no,,yes,,,MJ: 'Glock .357 (3)'. Glock pistols in .357 are .357 SIG.
+2018-09-20_rite-aid-warehouse-shooting,Rite Aid warehouse shooting,2018-09-20,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,,9mm,no,,yes,,,
+2018-09-12_t-t-trucking-shooting,T&T Trucking shooting,2018-09-12,1,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,Model 500,.50,no,,yes,,,
+2018-09-06_fifth-third-center-shooting,Fifth Third Center shooting,2018-09-06,1,1,handgun,semiautomatic,stated by Mother Jones,Taurus,PT-809E,9mm,no,,yes,,S136,
+2018-06-28_capital-gazette-shooting,Capital Gazette shooting,2018-06-28,1,1,shotgun,pump-action,stated by Mother Jones,,,12-gauge,no,,yes,,,
+2018-05-18_santa-fe-high-school-shooting,Santa Fe High School shooting,2018-05-18,1,1,shotgun,pump-action,inferred from make/model,Remington,870,,unknown,,yes,,S011;M12,Remington 870 per probable cause affidavit.
+2018-05-18_santa-fe-high-school-shooting,Santa Fe High School shooting,2018-05-18,2,1,handgun,revolver,stated by Mother Jones,,,.38,no,,yes,,S011,Affidavit says '.38-caliber pistol'; MJ says .38 revolver.
+2018-04-22_waffle-house-shooting,Waffle House shooting,2018-04-22,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2018-03-09_yountville-veterans-home-shooting,Yountville veterans home shooting,2018-03-09,1,1,rifle,semiautomatic,stated by Mother Jones,JR Enterprises,LRP-07,.308,no,AR-style,yes,yes,S012,Make/model from uncited Wikipedia infobox (WEAK).
+2018-03-09_yountville-veterans-home-shooting,Yountville veterans home shooting,2018-03-09,2,1,shotgun,double-barrel,inferred from make/model,Stoeger,Coach Gun,12-gauge,no,,yes,yes,S012;M19,Make/model from uncited Wikipedia infobox (WEAK). Coach guns are side-by-side double-barrel shotguns.
+2018-02-14_marjory-stoneman-douglas-high-school-shooting,Marjory Stoneman Douglas High School shooting,2018-02-14,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,yes,,,
+2018-01-28_pennsylvania-carwash-shooting,Pennsylvania carwash shooting,2018-01-28,1,1,rifle,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2018-01-28_pennsylvania-carwash-shooting,Pennsylvania carwash shooting,2018-01-28,2,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2017-11-14_rancho-tehama-shooting-spree,Rancho Tehama shooting spree,2017-11-14,1,1,rifle,semiautomatic,stated by outside source,Self-assembled,AR-15-type,,unknown,AR-style,yes,,S129,Used.
+2017-11-14_rancho-tehama-shooting-spree,Rancho Tehama shooting spree,2017-11-14,2,1,rifle,semiautomatic,inferred from make/model,,AR-15-type,,unknown,AR-style,yes,,S129;M01,Recovered near his body.
+2017-11-14_rancho-tehama-shooting-spree,Rancho Tehama shooting spree,2017-11-14,3,1,handgun,semiautomatic,inferred from other text,Smith & Wesson,,.40,no,,yes,,S129,Described as a pistol. Recovered near his body.
+2017-11-14_rancho-tehama-shooting-spree,Rancho Tehama shooting spree,2017-11-14,4,1,handgun,semiautomatic,inferred from make/model,Glock,,.45,no,,yes,,S129;M04,Recovered near his body.
+2017-11-05_texas-first-baptist-church-massacre,Texas First Baptist Church massacre,2017-11-05,1,1,rifle,semiautomatic,stated by outside source,Ruger,AR-556,,unknown,AR-style,yes,,S101,Recovered at the church (ATF).
+2017-11-05_texas-first-baptist-church-massacre,Texas First Baptist Church massacre,2017-11-05,2,1,handgun,semiautomatic,inferred from make/model,Glock,,9mm,no,,in vehicle at scene,,S101;M04,In the vehicle he drove (ATF).
+2017-11-05_texas-first-baptist-church-massacre,Texas First Baptist Church massacre,2017-11-05,3,1,handgun,unknown,unknown,Ruger,,.22,yes,,in vehicle at scene,,S101,In the vehicle he drove (ATF).
+2017-11-01_walmart-shooting-in-suburban-denver,Walmart shooting in suburban Denver,2017-11-01,1,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,
+2017-10-18_edgewood-businees-park-shooting,Edgewood businees park shooting,2017-10-18,1,1,handgun,unknown,unknown,,,.380,no,,yes,,S015,Sheriff: 'a handgun'. A .380 was discarded at his arrest.
+2017-10-01_las-vegas-strip-massacre,Las Vegas Strip massacre,2017-10-01,1,4,rifle,semiautomatic,stated by Mother Jones,Daniel Defense,DDM4,,unknown,AR-style,yes,,,Summary: semiautomatic rifles modified with bump stocks.
+2017-10-01_las-vegas-strip-massacre,Las Vegas Strip massacre,2017-10-01,2,3,rifle,semiautomatic,stated by Mother Jones,FN Herstal,FN-15,,unknown,AR-style,yes,,,
+2017-10-01_las-vegas-strip-massacre,Las Vegas Strip massacre,2017-10-01,3,,rifle,semiautomatic,stated by Mother Jones,Sig Sauer,,,unknown,,yes,,,'Other rifles made by Sig Sauer'.
+2017-10-01_las-vegas-strip-massacre,Las Vegas Strip massacre,2017-10-01,4,,rifle,semiautomatic,stated by Mother Jones,,AK-47-style,,unknown,AK-style,yes,,,23 firearms in total per MJ; only some are itemized.
+2017-06-14_san-francisco-ups-shooting,San Francisco UPS shooting,2017-06-14,1,1,handgun,semiautomatic,stated by outside source,MasterPiece Arms,MAC-10-style pistol,,unknown,MAC/Intratec-style pistol,yes,,S013;M23,SFPD called it 'an automatic pistol'. MasterPiece Arms sells semiautomatic MAC-style pistols; no source reports a full-auto conversion.
+2017-06-14_san-francisco-ups-shooting,San Francisco UPS shooting,2017-06-14,2,1,handgun,semiautomatic,stated by outside source,,,,unknown,,yes,,S013,SFPD: 'a semi-automatic handgun stolen from Napa County'.
+2017-06-07_pennsylvania-supermarket-shooting,Pennsylvania supermarket shooting,2017-06-07,1,2,shotgun,unknown,unknown,,,,unknown,,yes,,S014,Police: 'two pistol-grip shotguns'.
+2017-06-05_florida-awning-manufacturer-shooting,Florida awning manufacturer shooting,2017-06-05,1,1,handgun,semiautomatic,stated by Mother Jones,,,9mm,no,,yes,,S138,
+2017-05-12_rural-ohio-nursing-home-shooting,Rural Ohio nursing home shooting,2017-05-12,1,1,handgun,unknown,unknown,,,,unknown,,yes,,S016,
+2017-05-12_rural-ohio-nursing-home-shooting,Rural Ohio nursing home shooting,2017-05-12,2,1,shotgun,unknown,unknown,,,,unknown,,yes,,S016,
+2017-04-18_fresno-downtown-shooting,Fresno downtown shooting,2017-04-18,1,1,handgun,revolver,stated by Mother Jones,Colt,Python,.357,no,,yes,yes,S137,Model from uncited infobox; gun never recovered.
+2017-01-06_fort-lauderdale-airport-shooting,Fort Lauderdale airport shooting,2017-01-06,1,1,handgun,semiautomatic,stated by Mother Jones,Walther,,9mm,no,,yes,,,
+2016-09-23_cascade-mall-shooting,Cascade Mall shooting,2016-09-23,1,1,rifle,semiautomatic,inferred from make/model,Ruger,10/22,.22,yes,Other rifle,yes,,S017;S018;M09,
+2016-07-17_baton-rouge-police-shooting,Baton Rouge police shooting,2016-07-17,1,1,rifle,semiautomatic,stated by outside source,IWI,Tavor SAR,5.56mm/.223,no,Other rifle,yes,,S130,
+2016-07-17_baton-rouge-police-shooting,Baton Rouge police shooting,2016-07-17,2,1,handgun,semiautomatic,stated by outside source,Springfield Armory,XD,9mm,no,,yes,,S130,
+2016-07-17_baton-rouge-police-shooting,Baton Rouge police shooting,2016-07-17,3,1,rifle,semiautomatic,stated by outside source,Stag Arms,M4-type,5.56mm/.223,no,AR-style,in vehicle at scene,,S130,In his rental car.
+2016-07-07_dallas-police-shooting,Dallas police shooting,2016-07-07,1,1,rifle,semiautomatic,stated by Mother Jones,Izhmash,Saiga (AK-74 pattern),5.45mm,no,AK-style,yes,,S131,
+2016-07-07_dallas-police-shooting,Dallas police shooting,2016-07-07,2,1,handgun,semiautomatic,inferred from make/model,Glock,19 Gen4,9mm,no,,yes,,S131;M04,
+2016-07-07_dallas-police-shooting,Dallas police shooting,2016-07-07,3,1,handgun,semiautomatic,stated by Mother Jones,Fraser,,.25,no,,yes,,S131,
+2016-06-12_orlando-nightclub-massacre,Orlando nightclub massacre,2016-06-12,1,1,rifle,semiautomatic,stated by Mother Jones,Sig Sauer,MCX,,unknown,Other rifle,yes,,,30-round magazines.
+2016-06-12_orlando-nightclub-massacre,Orlando nightclub massacre,2016-06-12,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+2016-02-25_excel-industries-mass-shooting,Excel Industries mass shooting,2016-02-25,1,1,rifle,semiautomatic,stated by Mother Jones,Zastava,AK-47-style,,unknown,AK-style,yes,,,30-round magazines.
+2016-02-25_excel-industries-mass-shooting,Excel Industries mass shooting,2016-02-25,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,22,.40,no,,yes,,,
+2016-02-20_kalamazoo-shooting-spree,Kalamazoo shooting spree,2016-02-20,1,1,handgun,semiautomatic,stated by outside source,Glock,19,9mm,no,,yes,,S132,Used in the first shooting.
+2016-02-20_kalamazoo-shooting-spree,Kalamazoo shooting spree,2016-02-20,2,1,handgun,semiautomatic,stated by outside source,Walther,P99,9mm,no,,yes,,S132,Recovered from his car afterward; police believe it was used in the last two shootings.
+2016-02-20_kalamazoo-shooting-spree,Kalamazoo shooting spree,2016-02-20,3,1,handgun,unknown,unknown,,,,unknown,,yes,,S132,Found in his waistband at arrest.
+2015-12-02_san-bernardino-mass-shooting,San Bernardino mass shooting,2015-12-02,1,1,rifle,semiautomatic,stated by Mother Jones,DPMS,A-15,5.56mm/.223,no,AR-style,yes,,S133,Two shooters.
+2015-12-02_san-bernardino-mass-shooting,San Bernardino mass shooting,2015-12-02,2,1,rifle,semiautomatic,stated by Mother Jones,Smith & Wesson,M&P15,5.56mm/.223,no,AR-style,yes,,S133,
+2015-12-02_san-bernardino-mass-shooting,San Bernardino mass shooting,2015-12-02,3,1,handgun,semiautomatic,stated by Mother Jones,Llama,XI-B,9mm,no,,yes,,S133,
+2015-12-02_san-bernardino-mass-shooting,San Bernardino mass shooting,2015-12-02,4,1,handgun,semiautomatic,stated by Mother Jones,Springfield Armory,XD,9mm,no,,yes,,S133,
+2015-11-27_planned-parenthood-clinic,Planned Parenthood clinic,2015-11-27,1,1,rifle,semiautomatic,stated by outside source,,SKS,,unknown,Other rifle,yes,yes,S134,Model from uncited infobox; authorities: 'a semi-automatic rifle'.
+2015-10-31_colorado-springs-shooting-rampage,Colorado Springs shooting rampage,2015-10-31,1,1,rifle,semiautomatic,inferred from make/model,,AR-15,,unknown,AR-style,yes,,S019;M01,
+2015-10-31_colorado-springs-shooting-rampage,Colorado Springs shooting rampage,2015-10-31,2,1,handgun,semiautomatic,stated by outside source,,,9mm,no,,yes,,S019,Sheriff: '9mm semi-automatic pistol'.
+2015-10-31_colorado-springs-shooting-rampage,Colorado Springs shooting rampage,2015-10-31,3,1,handgun,revolver,stated by outside source,,,.357,no,,yes,,S019,
+2015-10-01_umpqua-community-college-shooting,Umpqua Community College shooting,2015-10-01,1,1,handgun,semiautomatic,inferred from make/model,Glock,,9mm,no,,yes,,S020;S021;M04,
+2015-10-01_umpqua-community-college-shooting,Umpqua Community College shooting,2015-10-01,2,1,handgun,semiautomatic,inferred from other text,Smith & Wesson,,.40,no,,yes,,S020,Described as a pistol (AP).
+2015-10-01_umpqua-community-college-shooting,Umpqua Community College shooting,2015-10-01,3,1,handgun,semiautomatic,inferred from other text,Taurus,,.40,no,,yes,,S020,Described as a pistol (AP).
+2015-10-01_umpqua-community-college-shooting,Umpqua Community College shooting,2015-10-01,4,1,rifle,semiautomatic,inferred from make/model,Del-Ton,AR-15-style,5.56mm/.223,no,AR-style,yes,,S020;M03,
+2015-10-01_umpqua-community-college-shooting,Umpqua Community College shooting,2015-10-01,5,2,unknown,unknown,unknown,,,,unknown,,yes,,S021,"ATF: 6 guns recovered at the college; only 4 identified publicly. MJ says 'five pistols, one rifle'."
+2015-07-16_chattanooga-military-recruitment-center,Chattanooga military recruitment center,2015-07-16,1,1,rifle,semiautomatic,stated by Mother Jones,,AK-47,,unknown,AK-style,yes,,S135,
+2015-07-16_chattanooga-military-recruitment-center,Chattanooga military recruitment center,2015-07-16,2,1,rifle,semiautomatic,stated by Mother Jones,,AR-15,,unknown,AR-style,no (found elsewhere),,S135,Seized at his home per CNN (MJ lists it as used).
+2015-07-16_chattanooga-military-recruitment-center,Chattanooga military recruitment center,2015-07-16,3,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,,9mm,no,,yes,,S135,
+2015-07-16_chattanooga-military-recruitment-center,Chattanooga military recruitment center,2015-07-16,4,1,shotgun,semiautomatic,stated by outside source,Izhmash,Saiga-12,12-gauge,no,,in vehicle at scene,,S135,Recovered from his car.
+2015-06-17_charleston-church-shooting,Charleston Church Shooting,2015-06-17,1,1,handgun,semiautomatic,inferred from make/model,Glock,41,.45,no,,yes,,S031;M04,SLED: '.45-caliber Glock pistol'. Model 41 per MJ.
+2015-06-11_trestle-trail-bridge-shooting,Trestle Trail bridge shooting,2015-06-11,1,2,handgun,unknown,unknown,,,,unknown,,yes,,S022,"Police: two handguns. NOTE: sources date this shooting to May 3, 2015; MJ says 6/11/2015."
+2014-10-24_marysville-pilchuck-high-school-shooting,Marysville-Pilchuck High School shooting,2014-10-24,1,1,handgun,semiautomatic,inferred from make/model,Beretta,Px4 Storm Subcompact,.40,no,,yes,,S029;S030;M05,
+2014-05-23_isla-vista-mass-murder,Isla Vista mass murder,2014-05-23,1,2,handgun,semiautomatic,stated by Mother Jones,Sig Sauer,P226,,unknown,,yes,,,Also hunting knives.
+2014-05-23_isla-vista-mass-murder,Isla Vista mass murder,2014-05-23,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,34,,unknown,,yes,,,
+2014-04-03_fort-hood-shooting-2,Fort Hood shooting 2,2014-04-03,1,1,handgun,semiautomatic,stated by outside source,Smith & Wesson,,.45,no,,yes,,S027,NBC News: '.45-caliber Smith & Wesson semiautomatic pistol'.
+2014-02-20_alturas-tribal-shooting,Alturas tribal shooting,2014-02-20,1,1,handgun,semiautomatic,stated by outside source,,,9mm,no,,yes,,S033,Police chief: 'a semi-automatic handgun'.
+2014-02-20_alturas-tribal-shooting,Alturas tribal shooting,2014-02-20,2,1,handgun,unknown,unknown,,,,unknown,,unclear,,S033,Second gun found; police didn't know whether it was used.
+2013-09-16_washington-navy-yard-shooting,Washington Navy Yard shooting,2013-09-16,1,1,shotgun,pump-action,inferred from make/model,Remington,870 Express,12-gauge,no,,yes,,S028;M12,FBI: sawed-off barrel and stock.
+2013-09-16_washington-navy-yard-shooting,Washington Navy Yard shooting,2013-09-16,2,1,handgun,semiautomatic,inferred from other text,Beretta,,,unknown,,yes,,S028,"Coded semiautomatic because Beretta handguns are almost all semiautomatic pistols (no model reference saved). FBI: 'a Beretta handgun he obtained during the course of his shooting'. MJ: .45 caliber, taken from a guard."
+2013-07-26_hialeah-apartment-shooting,Hialeah apartment shooting,2013-07-26,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+2013-06-07_santa-monica-rampage,Santa Monica rampage,2013-06-07,1,1,rifle,semiautomatic,stated by Mother Jones,,Homemade assault rifle,5.56mm/.223,no,AR-style,yes,,,Homemade; about 40 high-capacity magazines.
+2013-06-07_santa-monica-rampage,Santa Monica rampage,2013-06-07,2,1,handgun,black powder,stated by Mother Jones,,Black-powder handgun,,unknown,,yes,,,Likely antique.
+2013-04-21_pinewood-village-apartment-shooting,Pinewood Village Apartment shooting,2013-04-21,1,1,handgun,semiautomatic,stated by Mother Jones,,,.40,no,,yes,,S037,Police: reached for a handgun.
+2013-04-21_pinewood-village-apartment-shooting,Pinewood Village Apartment shooting,2013-04-21,2,1,shotgun,unknown,unknown,,,,unknown,,yes,,S037,
+2013-03-13_mohawk-valley-shootings,Mohawk Valley shootings,2013-03-13,1,1,shotgun,pump-action,inferred from make/model,Mossberg,590,12-gauge,no,,yes,yes,S032;M15,Make/model from uncited Wikipedia infobox (WEAK).
+2012-12-14_sandy-hook-elementary-massacre,Sandy Hook Elementary massacre,2012-12-14,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,,10mm,no,,yes,,,
+2012-12-14_sandy-hook-elementary-massacre,Sandy Hook Elementary massacre,2012-12-14,2,1,handgun,semiautomatic,stated by Mother Jones,Sig Sauer,P226,9mm,no,,yes,,,
+2012-12-14_sandy-hook-elementary-massacre,Sandy Hook Elementary massacre,2012-12-14,3,1,rifle,semiautomatic,stated by Mother Jones,Bushmaster,XM-15 E2S,5.56mm/.223,no,AR-style,yes,,,
+2012-12-14_sandy-hook-elementary-massacre,Sandy Hook Elementary massacre,2012-12-14,4,1,shotgun,semiautomatic,stated by Mother Jones,Izhmash,Saiga-12,12-gauge,no,,yes,,,
+2012-09-27_accent-signage-systems-shooting,Accent Signage Systems shooting,2012-09-27,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,,9mm,no,,yes,,,
+2012-08-05_sikh-temple-shooting,Sikh temple shooting,2012-08-05,1,1,handgun,semiautomatic,stated by Mother Jones,Springfield Armory,XDM,9mm,no,,yes,,,
+2012-07-20_aurora-theater-shooting,Aurora theater shooting,2012-07-20,1,2,handgun,semiautomatic,stated by Mother Jones,Glock,,.40,no,,yes,,,
+2012-07-20_aurora-theater-shooting,Aurora theater shooting,2012-07-20,2,1,rifle,semiautomatic,stated by Mother Jones,Smith & Wesson,M&P15,5.56mm/.223,no,AR-style,yes,,,
+2012-07-20_aurora-theater-shooting,Aurora theater shooting,2012-07-20,3,1,shotgun,pump-action,stated by Mother Jones,Remington,870,12-gauge,no,,yes,,,
+2012-05-20_seattle-cafe-shooting,Seattle cafe shooting,2012-05-20,1,2,handgun,semiautomatic,stated by Mother Jones,,,.45,no,,yes,,,
+2012-04-02_oikos-university-killings,Oikos University killings,2012-04-02,1,1,handgun,semiautomatic,stated by Mother Jones,,,.45,no,,yes,,,
+2012-02-21_su-jung-health-sauna-shooting,Su Jung Health Sauna shooting,2012-02-21,1,1,handgun,semiautomatic,stated by Mother Jones,,,.45,no,,yes,,,
+2011-10-12_seal-beach-shooting,Seal Beach shooting,2011-10-12,1,1,handgun,semiautomatic,stated by Mother Jones,Heckler & Koch,,.45,no,,yes,,,
+2011-10-12_seal-beach-shooting,Seal Beach shooting,2011-10-12,2,1,handgun,semiautomatic,stated by Mother Jones,Springfield Armory,,9mm,no,,yes,,,
+2011-10-12_seal-beach-shooting,Seal Beach shooting,2011-10-12,3,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,,.44 Magnum,no,,yes,,,
+2011-09-06_ihop-shooting,IHOP shooting,2011-09-06,1,1,rifle,semiautomatic,inferred from make/model,Norinco,AK-47 variant,,unknown,AK-style,yes,,M22,MJ calls both rifles 'assault'.
+2011-09-06_ihop-shooting,IHOP shooting,2011-09-06,2,1,rifle,semiautomatic,inferred from make/model,Romarm (Cugir),AK-47 variant,,unknown,AK-style,yes,,M22,
+2011-09-06_ihop-shooting,IHOP shooting,2011-09-06,3,1,handgun,revolver,stated by Mother Jones,Colt,,.38,no,,yes,,,
+2011-01-08_tucson-shooting,Tucson shooting,2011-01-08,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,19,9mm,no,,yes,,,
+2010-08-03_hartford-beer-distributor-shooting,Hartford Beer Distributor shooting,2010-08-03,1,2,handgun,semiautomatic,stated by Mother Jones,Ruger,SR9,9mm,no,,yes,,,
+2009-11-29_coffee-shop-police-killings,Coffee shop police killings,2009-11-29,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+2009-11-29_coffee-shop-police-killings,Coffee shop police killings,2009-11-29,2,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,,.38,no,,yes,,,In weapon_details but not weapon_type.
+2009-11-05_fort-hood-massacre,Fort Hood massacre,2009-11-05,1,1,handgun,semiautomatic,stated by Mother Jones,FN Herstal,Five-seven,,unknown,,yes,,,
+2009-04-03_binghamton-shootings,Binghamton shootings,2009-04-03,1,1,handgun,semiautomatic,stated by Mother Jones,Beretta,,9mm,no,,yes,,,
+2009-04-03_binghamton-shootings,Binghamton shootings,2009-04-03,2,1,handgun,semiautomatic,stated by Mother Jones,Springfield Armory,,.45,no,,yes,,,
+2009-03-29_carthage-nursing-home-shooting,Carthage nursing home shooting,2009-03-29,1,1,shotgun,pump-action,stated by Mother Jones,Winchester,1300,,unknown,,yes,,,
+2009-03-29_carthage-nursing-home-shooting,Carthage nursing home shooting,2009-03-29,2,1,handgun,revolver,stated by Mother Jones,,,.357,no,,yes,,,
+2008-06-25_atlantis-plastics-shooting,Atlantis Plastics shooting,2008-06-25,1,1,handgun,semiautomatic,stated by Mother Jones,Hi-Point,,.45,no,,yes,,,
+2008-02-14_northern-illinois-university-shooting,Northern Illinois University shooting,2008-02-14,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,19,9mm,no,,yes,,,
+2008-02-14_northern-illinois-university-shooting,Northern Illinois University shooting,2008-02-14,2,1,handgun,semiautomatic,stated by Mother Jones,Hi-Point,CF380,.380,no,,yes,,,
+2008-02-14_northern-illinois-university-shooting,Northern Illinois University shooting,2008-02-14,3,1,handgun,semiautomatic,stated by Mother Jones,Sig Sauer,P232,.380,no,,yes,,,MJ: '9mm Kurz' (= .380).
+2008-02-14_northern-illinois-university-shooting,Northern Illinois University shooting,2008-02-14,4,1,shotgun,semiautomatic,inferred from make/model,Remington,Sportsman 48,12-gauge,no,,yes,,M13,Sawed-off.
+2008-02-07_kirkwood-city-council-shooting,Kirkwood City Council shooting,2008-02-07,1,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,,.40,no,,yes,,,
+2008-02-07_kirkwood-city-council-shooting,Kirkwood City Council shooting,2008-02-07,2,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,Model 29,.44 Magnum,no,,yes,,,
+2007-12-05_westroads-mall-shooting,Westroads Mall shooting,2007-12-05,1,1,rifle,semiautomatic,stated by Mother Jones,Century Arms,WASR-10,,unknown,AK-style,yes,,,
+2007-10-07_crandon-shooting,Crandon shooting,2007-10-07,1,1,rifle,semiautomatic,stated by Mother Jones,,AR-15 SWAT,,unknown,AR-style,yes,,,
+2007-04-16_virginia-tech-massacre,Virginia Tech massacre,2007-04-16,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,19,9mm,no,,yes,,,
+2007-04-16_virginia-tech-massacre,Virginia Tech massacre,2007-04-16,2,1,handgun,semiautomatic,stated by Mother Jones,Walther,P22,.22,yes,,yes,,,
+2007-02-12_trolley-square-shooting,Trolley Square shooting,2007-02-12,1,1,shotgun,pump-action,inferred from make/model,Mossberg (Maverick Arms),Maverick 88 Field,,unknown,,yes,,M14,
+2007-02-12_trolley-square-shooting,Trolley Square shooting,2007-02-12,2,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,M36,.38,no,,yes,,,
+2006-10-02_amish-school-shooting,Amish school shooting,2006-10-02,1,1,handgun,semiautomatic,stated by Mother Jones,Springfield Armory,,,unknown,,yes,,,
+2006-10-02_amish-school-shooting,Amish school shooting,2006-10-02,2,1,rifle,bolt-action,stated by Mother Jones,Ruger,,.30-06,no,Other rifle,yes,,,
+2006-10-02_amish-school-shooting,Amish school shooting,2006-10-02,3,1,shotgun,pump-action,stated by Mother Jones,Browning,,12-gauge,no,,yes,,,
+2006-03-25_capitol-hill-massacre,Capitol Hill massacre,2006-03-25,1,1,handgun,semiautomatic,stated by Mother Jones,Ruger,,.40,no,,yes,,,
+2006-03-25_capitol-hill-massacre,Capitol Hill massacre,2006-03-25,2,1,handgun,semiautomatic,stated by Mother Jones,,,,unknown,,yes,,,'One other semiautomatic handgun'.
+2006-03-25_capitol-hill-massacre,Capitol Hill massacre,2006-03-25,3,1,rifle,semiautomatic,stated by Mother Jones,Bushmaster,XM-15 E2S,,unknown,AR-style,yes,,,
+2006-03-25_capitol-hill-massacre,Capitol Hill massacre,2006-03-25,4,1,shotgun,pump-action,stated by Mother Jones,Winchester,Defender,12-gauge,no,,yes,,,
+2006-01-30_goleta-postal-shootings,Goleta postal shootings,2006-01-30,1,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,915,9mm,no,,yes,,,
+2005-03-21_red-lake-massacre,Red Lake massacre,2005-03-21,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,23,.40,no,,yes,,,
+2005-03-21_red-lake-massacre,Red Lake massacre,2005-03-21,2,1,handgun,semiautomatic,stated by Mother Jones,Ruger,,.22,yes,,yes,,,
+2005-03-21_red-lake-massacre,Red Lake massacre,2005-03-21,3,1,shotgun,pump-action,inferred from make/model,Remington,870,12-gauge,no,,yes,,M12,
+2005-03-12_living-church-of-god-shooting,Living Church of God shooting,2005-03-12,1,1,handgun,semiautomatic,stated by Mother Jones,Beretta,,9mm,no,,yes,,,
+2004-12-08_damageplan-show-shooting,Damageplan show shooting,2004-12-08,1,1,handgun,semiautomatic,stated by Mother Jones,Beretta,92FS,9mm,no,,yes,,,
+2003-07-08_lockheed-martin-shooting,Lockheed Martin shooting,2003-07-08,1,1,handgun,semiautomatic,stated by Mother Jones,Ruger,P90,.45,no,,yes,,,
+2003-07-08_lockheed-martin-shooting,Lockheed Martin shooting,2003-07-08,2,1,rifle,unknown,unknown,,,.22,yes,,yes,,,'.22-caliber rifle with scope'; action not stated.
+2003-07-08_lockheed-martin-shooting,Lockheed Martin shooting,2003-07-08,3,1,rifle,semiautomatic,inferred from make/model,Ruger,Mini-14,5.56mm/.223,no,Other rifle,yes,,M06,The Mini-14 is a semiautomatic rifle.
+2003-07-08_lockheed-martin-shooting,Lockheed Martin shooting,2003-07-08,4,1,shotgun,pump-action,inferred from make/model,Winchester,1300,12-gauge,no,,yes,,M16,
+2003-07-08_lockheed-martin-shooting,Lockheed Martin shooting,2003-07-08,5,1,handgun,derringer,stated by Mother Jones,,,.22 WMR,yes,,yes,,,
+2001-02-05_navistar-shooting,Navistar shooting,2001-02-05,1,1,rifle,semiautomatic,inferred from make/model,,SKS,,unknown,Other rifle,yes,,M07,MJ: 'SKS 1954R'. The SKS is a semiautomatic rifle.
+2001-02-05_navistar-shooting,Navistar shooting,2001-02-05,2,1,rifle,unknown,unknown,Winchester,,.30,no,,yes,,,Action not stated.
+2001-02-05_navistar-shooting,Navistar shooting,2001-02-05,3,1,shotgun,pump-action,stated by Mother Jones,Remington,,12-gauge,no,,yes,,,
+2001-02-05_navistar-shooting,Navistar shooting,2001-02-05,4,1,handgun,revolver,stated by Mother Jones,,,.38,no,,yes,,,
+2000-12-26_wakefield-massacre,Wakefield massacre,2000-12-26,1,1,handgun,semiautomatic,stated by Mother Jones,Retolaza,,.32,no,,yes,,,
+2000-12-26_wakefield-massacre,Wakefield massacre,2000-12-26,2,1,rifle,semiautomatic,stated by Mother Jones,,AK-47 variant,,unknown,AK-style,yes,,,
+2000-12-26_wakefield-massacre,Wakefield massacre,2000-12-26,3,1,shotgun,pump-action,stated by Mother Jones,Winchester,1300,12-gauge,no,,yes,,,
+1999-12-30_hotel-shooting,Hotel shooting,1999-12-30,1,1,handgun,semiautomatic,stated by Mother Jones,Lorcin,,9mm,no,,yes,,,
+1999-12-30_hotel-shooting,Hotel shooting,1999-12-30,2,1,handgun,revolver,stated by Mother Jones,Charter Arms,,.38,no,,yes,,,
+1999-11-02_xerox-killings,Xerox killings,1999-11-02,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+1999-09-15_wedgwood-baptist-church-shooting,Wedgwood Baptist Church shooting,1999-09-15,1,1,handgun,semiautomatic,stated by Mother Jones,,,.380,no,,yes,,,
+1999-09-15_wedgwood-baptist-church-shooting,Wedgwood Baptist Church shooting,1999-09-15,2,1,handgun,semiautomatic,stated by Mother Jones,Ruger,P85,9mm,no,,yes,,,
+1999-07-29_atlanta-day-trading-spree-killings,Atlanta day trading spree killings,1999-07-29,1,1,handgun,semiautomatic,stated by Mother Jones,Colt,1911-A1,.45,no,,yes,,,
+1999-07-29_atlanta-day-trading-spree-killings,Atlanta day trading spree killings,1999-07-29,2,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+1999-07-29_atlanta-day-trading-spree-killings,Atlanta day trading spree killings,1999-07-29,3,1,handgun,semiautomatic,stated by Mother Jones,Raven Arms,MP-25,.25,no,,yes,,,
+1999-07-29_atlanta-day-trading-spree-killings,Atlanta day trading spree killings,1999-07-29,4,1,handgun,revolver,stated by Mother Jones,Harrington & Richardson,,.22,yes,,yes,,,
+1999-04-20_columbine-high-school-massacre,Columbine High School massacre,1999-04-20,1,1,handgun,semiautomatic,stated by Mother Jones,Intratec,DC-9,9mm,no,MAC/Intratec-style pistol,yes,,,Two shooters. MJ labels the DC-9 'assault'.
+1999-04-20_columbine-high-school-massacre,Columbine High School massacre,1999-04-20,2,1,rifle,semiautomatic,inferred from make/model,Hi-Point,995 carbine,9mm,no,Pistol-caliber carbine,yes,,M11,MJ labels it 'rifle (assault)'.
+1999-04-20_columbine-high-school-massacre,Columbine High School massacre,1999-04-20,3,1,shotgun,double-barrel,inferred from make/model,Savage (Stevens),311D,12-gauge,no,,yes,,M18,Sawed-off double-barrel.
+1999-04-20_columbine-high-school-massacre,Columbine High School massacre,1999-04-20,4,1,shotgun,pump-action,stated by Mother Jones,Savage (Springfield),67H,12-gauge,no,,yes,,,Sawed-off.
+1998-05-21_thurston-high-school-shooting,Thurston High School shooting,1998-05-21,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,19,9mm,no,,yes,,S034,
+1998-05-21_thurston-high-school-shooting,Thurston High School shooting,1998-05-21,2,1,handgun,semiautomatic,stated by Mother Jones,Ruger,,.22,yes,,yes,,S034,
+1998-05-21_thurston-high-school-shooting,Thurston High School shooting,1998-05-21,3,1,rifle,semiautomatic,inferred from make/model,Ruger,10/22 (sawed-off),.22,yes,Other rifle,yes,,S034;M09,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,1,1,handgun,semiautomatic,stated by Mother Jones,FIE,,.380,no,,yes,,,Two shooters. MJ lists 9 guns; it doesn't say which were fired.
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,2,1,handgun,semiautomatic,stated by Mother Jones,Star,,.380,no,,yes,,,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,3,1,rifle,unknown,unknown,Ruger,,.44 Magnum,no,,yes,,,Action not stated.
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,4,1,rifle,semiautomatic,inferred from make/model,Remington,742,.30-06,no,Other rifle,yes,,M10,The Remington 742 is semiautomatic.
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,5,1,rifle,semiautomatic,inferred from make/model,Universal,M1 carbine (replica),.30,no,Other rifle,yes,,M08,M1 carbines are semiautomatic.
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,6,1,handgun,revolver,stated by Mother Jones,Charter Arms,,.38,no,,yes,,,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,7,1,handgun,revolver,stated by Mother Jones,Ruger,Security Six,.357,no,,yes,,,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,8,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,,.38,no,,yes,,,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,9,1,handgun,derringer,stated by Mother Jones,,Double Deuce Buddie,.22,yes,,yes,,,
+1998-03-24_westside-middle-school-killings,Westside Middle School killings,1998-03-24,10,1,handgun,derringer,stated by Mother Jones,Davis Industries,,.38,no,,yes,,,
+1998-03-06_connecticut-lottery-shooting,Connecticut Lottery shooting,1998-03-06,1,1,handgun,semiautomatic,stated by Mother Jones,,,9mm,no,,yes,,,
+1997-12-18_caltrans-maintenance-yard-shooting,Caltrans maintenance yard shooting,1997-12-18,1,1,rifle,semiautomatic,stated by Mother Jones,,AK-47 Chinese variant,7.62mm,no,AK-style,yes,,,
+1997-09-15_r-e-phelon-company-shooting,R.E. Phelon Company shooting,1997-09-15,1,1,handgun,semiautomatic,stated by Mother Jones,,,9mm,no,,yes,,,
+1996-02-09_fort-lauderdale-revenge-shooting,Fort Lauderdale revenge shooting,1996-02-09,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,,9mm,no,,yes,,,
+1996-02-09_fort-lauderdale-revenge-shooting,Fort Lauderdale revenge shooting,1996-02-09,2,1,handgun,revolver,stated by Mother Jones,,,.32,no,,yes,,,
+1995-04-03_walter-rossler-company-massacre,Walter Rossler Company massacre,1995-04-03,1,1,handgun,semiautomatic,stated by Mother Jones,Ruger,,9mm,no,,yes,,,
+1995-04-03_walter-rossler-company-massacre,Walter Rossler Company massacre,1995-04-03,2,1,handgun,revolver,stated by Mother Jones,,,.32,no,,yes,,,
+1994-06-20_air-force-base-shooting,Air Force base shooting,1994-06-20,1,1,rifle,semiautomatic,stated by Mother Jones,,MAK-90,,unknown,AK-style,yes,,,
+1993-12-14_chuck-e-cheese-s-killings,Chuck E. Cheese's killings,1993-12-14,1,1,handgun,semiautomatic,stated by Mother Jones,,,.25,no,,yes,,,
+1993-12-07_long-island-rail-road-massacre,Long Island Rail Road massacre,1993-12-07,1,1,handgun,semiautomatic,stated by Mother Jones,Ruger,P89,9mm,no,,yes,,,
+1993-08-06_luigi-s-shooting,Luigi's shooting,1993-08-06,1,1,rifle,unknown,unknown,,,.22,yes,,yes,,S036,Action still unknown.
+1993-08-06_luigi-s-shooting,Luigi's shooting,1993-08-06,2,1,shotgun,pump-action,inferred from make/model,Savage,67,12-gauge,no,,yes,yes,S036;M17,Make/model from uncited Wikipedia infobox (WEAK).
+1993-08-06_luigi-s-shooting,Luigi's shooting,1993-08-06,3,1,shotgun,unknown,unknown,,,12-gauge,no,,yes,,S036,
+1993-07-01_101-california-street-shootings,101 California Street shootings,1993-07-01,1,2,handgun,semiautomatic,stated by Mother Jones,Intratec,DC-9,,unknown,MAC/Intratec-style pistol,yes,,,MJ labels both 'assault'.
+1993-07-01_101-california-street-shootings,101 California Street shootings,1993-07-01,2,1,handgun,semiautomatic,stated by Mother Jones,Colt,,.45,no,,yes,,,
+1992-10-15_watkins-glen-killings,Watkins Glen killings,1992-10-15,1,1,handgun,semiautomatic,stated by Mother Jones,Llama,,9mm,no,,yes,,,
+1992-05-01_lindhurst-high-school-shooting,Lindhurst High School shooting,1992-05-01,1,1,rifle,unknown,unknown,,,.22,yes,,yes,,S035,Sawed-off butt; action not stated in the court opinion.
+1992-05-01_lindhurst-high-school-shooting,Lindhurst High School shooting,1992-05-01,2,1,shotgun,pump-action,stated by outside source,,,12-gauge,no,,yes,,S035,
+1991-11-14_royal-oak-postal-shootings,Royal Oak postal shootings,1991-11-14,1,1,rifle,semiautomatic,stated by Mother Jones,Ruger,,.22,yes,Other rifle,yes,,,Sawed-off. Semiautomatic but rimfire .22 (see the .22 decision).
+1991-11-01_university-of-iowa-shooting,University of Iowa shooting,1991-11-01,1,1,handgun,revolver,stated by Mother Jones,Taurus,,.38,no,,yes,,,
+1991-10-16_luby-s-massacre,Luby's massacre,1991-10-16,1,1,handgun,semiautomatic,stated by Mother Jones,Glock,17,9mm,no,,yes,,,
+1991-10-16_luby-s-massacre,Luby's massacre,1991-10-16,2,1,handgun,semiautomatic,stated by Mother Jones,Ruger,P89,9mm,no,,yes,,,
+1990-06-18_gmac-massacre,GMAC massacre,1990-06-18,1,1,rifle,semiautomatic,inferred from make/model,Universal,M1 carbine,.30,no,Other rifle,yes,,M08,M1 carbines are semiautomatic.
+1990-06-18_gmac-massacre,GMAC massacre,1990-06-18,2,1,handgun,revolver,stated by Mother Jones,,,.38,no,,yes,,,
+1989-09-14_standard-gravure-shooting,Standard Gravure shooting,1989-09-14,1,2,handgun,semiautomatic,stated by Mother Jones,Intratec,MAC-11,,unknown,MAC/Intratec-style pistol,yes,,,"MJ labels both 'assault'. MJ writes 'Intratec MAC-11', but MAC-11s were made by Military Armament Corp./SWD, not Intratec. Make needs checking."
+1989-09-14_standard-gravure-shooting,Standard Gravure shooting,1989-09-14,2,1,handgun,semiautomatic,stated by Mother Jones,Sig Sauer,,9mm,no,,yes,,,
+1989-09-14_standard-gravure-shooting,Standard Gravure shooting,1989-09-14,3,1,rifle,semiautomatic,stated by Mother Jones,,AK-47 Chinese variant,,unknown,AK-style,yes,,,
+1989-09-14_standard-gravure-shooting,Standard Gravure shooting,1989-09-14,4,1,handgun,revolver,stated by Mother Jones,,,.38,no,,yes,,,
+1989-01-17_stockton-schoolyard-shooting,Stockton schoolyard shooting,1989-01-17,1,1,handgun,semiautomatic,stated by Mother Jones,Taurus,,9mm,no,,yes,,,
+1989-01-17_stockton-schoolyard-shooting,Stockton schoolyard shooting,1989-01-17,2,1,rifle,semiautomatic,stated by Mother Jones,,AK-47 Chinese variant,,unknown,AK-style,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,1,1,handgun,semiautomatic,stated by Mother Jones,Browning,,.380,no,,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,2,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,,9mm,no,,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,3,1,rifle,bolt-action,stated by Mother Jones,Ruger,M77,.22-250,no,Other rifle,yes,,,".22-250 is a centerfire round, not a rimfire .22."
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,4,1,shotgun,pump-action,stated by Mother Jones,Mossberg,,12-gauge,no,,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,5,1,shotgun,semiautomatic,stated by Mother Jones,Benelli,,12-gauge,no,,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,6,1,handgun,revolver,stated by Mother Jones,Smith & Wesson,,.357,no,,yes,,,
+1988-02-16_esl-shooting,ESL shooting,1988-02-16,7,1,handgun,revolver,stated by Mother Jones,,Sentinel,.22 WMR,yes,,yes,,,
+1987-04-23_shopping-centers-spree-killings,Shopping centers spree killings,1987-04-23,1,1,rifle,semiautomatic,stated by Mother Jones,Ruger,Mini-14,,unknown,Other rifle,yes,,,
+1987-04-23_shopping-centers-spree-killings,Shopping centers spree killings,1987-04-23,2,1,shotgun,pump-action,stated by Mother Jones,Winchester,,20-gauge,no,,yes,,,
+1987-04-23_shopping-centers-spree-killings,Shopping centers spree killings,1987-04-23,3,1,handgun,revolver,stated by Mother Jones,Ruger,Blackhawk,.357,no,,yes,,,
+1986-08-20_united-states-postal-service-shooting,United States Postal Service shooting,1986-08-20,1,1,handgun,semiautomatic,stated by Mother Jones,,,.22,yes,,yes,,,
+1986-08-20_united-states-postal-service-shooting,United States Postal Service shooting,1986-08-20,2,2,handgun,semiautomatic,stated by Mother Jones,Colt,1911-A1,.45,no,,yes,,,
+1984-07-18_san-ysidro-mcdonald-s-massacre,San Ysidro McDonald's massacre,1984-07-18,1,1,handgun,semiautomatic,stated by Mother Jones,Browning,Hi-Power,9mm,no,,yes,,,
+1984-07-18_san-ysidro-mcdonald-s-massacre,San Ysidro McDonald's massacre,1984-07-18,2,1,rifle,semiautomatic,stated by Mother Jones,IMI,Uzi Model A carbine,9mm,no,Pistol-caliber carbine,yes,,,MJ labels it 'rifle (assault)'.
+1984-07-18_san-ysidro-mcdonald-s-massacre,San Ysidro McDonald's massacre,1984-07-18,3,1,shotgun,pump-action,stated by Mother Jones,Winchester,1200,12-gauge,no,,yes,,,
+1984-06-29_dallas-nightclub-shooting,Dallas nightclub shooting,1984-06-29,1,1,handgun,semiautomatic,stated by Mother Jones,Smith & Wesson,459,9mm,no,,yes,,,
+1982-08-20_welding-shop-shooting,Welding shop shooting,1982-08-20,1,1,shotgun,pump-action,stated by Mother Jones,Mossberg,500 Persuader,12-gauge,no,,yes,,,Pistol grip.
